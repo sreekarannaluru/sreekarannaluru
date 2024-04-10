@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sreekarannaluru
-- 👀 I’m interested in Operations Management(Manufacturing, Supply Chain and Data Science).
-- 🌱 I’m currently learning nuances in Supply Chain Management.
-- 💞️ I’m looking to collaborate on projects which solve real world problems.
-- 📫 How to reach me : Active on LinkedIn and Gmail. Can contact me via those platforms.
+- 👀 Operations Engineer by profession.
+- 🌱 Passionate about data analytics and management.
+- 💞️ Looking to build products/services for people to use.
+- 📫 How to reach me : Active on LinkedIn (Sreekar Annaluru).
 
 <!---
 sreekarannaluru/sreekarannaluru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
